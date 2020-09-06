@@ -20,9 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/d82qBcXNW2.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+- The first time I built the application I lost my whole advance since despite creating the repository I did not "commit" and "push" the project from Xcode. Without committing and pushing, after finishing the requirements of the assignment, I tried to make some improvements to the project. Then when I realized that these changes were not what I expected, I hit the "Discard all changes" option. This action led me to lose the full implementation of my project. Afterwards, I rebuilt my application from scratch. Although losing all my progress was a frustrating moment, thanks to this situation from now on I will be conscious of making sure to "commit" and "push" the progress of my projects.
