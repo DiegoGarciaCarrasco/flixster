@@ -1,11 +1,11 @@
-# Flix
+# Flixter
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 Flix is a read-only movie-browsing app similar to Rotten Tomatoes.
 
 
-## Flix 
+## Flixter 
 
 ### User Stories
 
