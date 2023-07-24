@@ -5,11 +5,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 Flix is a read-only movie-browsing app similar to Rotten Tomatoes.
 
 
-## Flix Part 2
+## Flix 
 
 ### User Stories
 
 The following **required** functionality is completed:
+- [x] User sees an app icon on the home screen and a styled launch screen.
+- [x] User can view and scroll through a list of movies now playing in theaters.
+- [x] User can view each movie's poster image.
 - [x] User can tap a cell to see more details about a particular movie.
 - [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
@@ -28,24 +31,21 @@ I enjoyed developing this app.
 
 ---
 
+<!--
 ## Flix Part 1
 
 ### User Stories
 
 The following **required** functionality is completed:
-- [x] User sees an app icon on the home screen and a styled launch screen.
-- [x] User can view and scroll through a list of movies now playing in theaters.
-- [x] User can view the movie poster image for each movie.
 
-<!--
 The following **bonus** features can be implemented:
 - [x] Run your app on an actual device.
 - [ ] Users can view the app on various device sizes and orientations.
--->
 
 ### App Walkthrough GIF
 
 <img src="http://g.recordit.co/d82qBcXNW2.gif" width=250><br>
+-->
 
 ### Notes
 
