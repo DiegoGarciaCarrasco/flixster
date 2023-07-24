@@ -26,12 +26,12 @@ The following **bonus** features can be implemented:
 
 <img src="http://g.recordit.co/SV6Cb7L3bb.gif" width=250><br>
 
-### Notes
-I enjoyed developing this app.
 
 ---
 
 <!--
+### Notes
+
 ## Flix Part 1
 
 ### User Stories
@@ -49,4 +49,5 @@ The following **bonus** features can be implemented:
 
 ### Notes
 
+- I enjoyed developing this app.
 - During my initial attempt at building the application, I encountered a significant setback because I forgot to "commit" and "push" the project from Xcode, despite creating the repository. Consequently, when I completed the project requirements and attempted to make further improvements, I realized that the changes didn't meet my expectations. To rectify this, I decided to select the "Discard all changes" option, unknowingly erasing the entire implementation of the project. It was undoubtedly a frustrating experience, but I used it as an opportunity to rebuild the application from scratch. Despite the frustration of losing all my progress, this rebuilding process proved beneficial as it allowed me to deeply grasp the app's implementation and correct minor inconsistencies. As a takeaway from this experience, I now recognize the importance of regularly "committing" and "pushing" at every stage of my future projects to prevent similar mishaps from occurring again.
