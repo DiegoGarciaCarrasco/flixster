@@ -2,7 +2,7 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Flix is a read-only movie browsing app similar to Rotten Tomatoes
+Flix is a read-only movie-browsing app similar to Rotten Tomatoes.
 
 
 ## Flix Part 2
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 <!--
 The following **bonus** features can be implemented:
-- [ ] User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] User can tap a poster in the collection view to see a detailed screen of that movie.
 - [ ] In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 -->
 
@@ -39,8 +39,8 @@ The following **required** functionality is completed:
 
 <!--
 The following **bonus** features can be implemented:
-- [x] Run your app on a real device.
-- [ ] User can view the app on various device sizes and orientations.
+- [x] Run your app on an actual device.
+- [ ] Users can view the app on various device sizes and orientations.
 -->
 
 ### App Walkthrough GIF
@@ -49,4 +49,6 @@ The following **bonus** features can be implemented:
 
 ### Notes
 
-- The first time I built the application I lost my whole advance since despite creating the repository I did not "commit" and "push" the project from Xcode. Without committing and pushing, after finishing the requirements of the assignment, I tried to make some improvements to the project. Then when I realized that these changes were not what I expected, I hit the "Discard all changes" option. This action led me to lose the full implementation of my project. Afterwards, I rebuilt my application from scratch. Although losing all my progress was a frustrating moment, rebuilding it allowed to grasp the implementation process of this app and from now on I will make sure to "commit" and "push" at every stage of my next projects.
+- During my initial attempt at building the application, I encountered a significant setback because I forgot to "commit" and "push" the project from Xcode, despite creating the repository. Consequently, when I completed the project requirements and attempted to make further improvements, I realized that the changes didn't meet my expectations. To rectify this, I decided to select the "Discard all changes" option, unknowingly erasing the entire implementation of the project. It was undoubtedly a frustrating experience, but I used it as an opportunity to rebuild the application from scratch.
+
+Despite the frustration of losing all my progress, this rebuilding process proved beneficial as it allowed me to deeply grasp the app's implementation and correct minor inconsistencies. As a takeaway from this experience, I now recognize the importance of regularly "committing" and "pushing" at every stage of my future projects to prevent similar mishaps from occurring again.
